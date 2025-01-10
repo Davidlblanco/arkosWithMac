@@ -29,4 +29,4 @@ Documentation used:
     `https://github.com/christianhaitian/arkos/wiki`
 
 INFO:
-    None of these applications were developped by me, i em just documenting what i have done so i can use it later.
+    None of these applications were developped by me, i'm just documenting what i have done so i can use it later.
