@@ -6,7 +6,7 @@
     1.1 - i am actually using this one:
     https://drive.google.com/file/d/1-djugu1zFRs1XQBauNxRS25IJXsPAL-9/view
     
-    *you might need a program to of your choice unzip it*
+    *you might need a program of your choice to unzip it*
     
 
 * **2 - Download balenaEtcher to flash the sd card with Arkos:**
